@@ -8,7 +8,7 @@ import com.example.flo.databinding.ActivityMainBinding
 
 class MainActivity : AppCompatActivity() {
     //start
-    lateinit var binding: ActivityMainBinsding
+    lateinit var binding: ActivityMainBinding
 
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
