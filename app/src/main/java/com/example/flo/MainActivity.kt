@@ -7,8 +7,8 @@ import android.widget.TextView
 import com.example.flo.databinding.ActivityMainBinding
 
 class MainActivity : AppCompatActivity() {
-
-    lateinit var binding: ActivityMainBinding
+    //start
+    lateinit var binding: ActivityMainBinsding
 
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
