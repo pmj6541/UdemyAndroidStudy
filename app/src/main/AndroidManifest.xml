@@ -22,5 +22,6 @@
             android:name=".SongActivity"
             android:exported="true" />
     </application>
+    //test 용
 
 </manifest>
