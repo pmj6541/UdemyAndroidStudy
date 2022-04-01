@@ -3,6 +3,11 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/User/Desktop/AndroidCloneCording/UdemyAndroidStudy/app/src/main/res/layout/activity_main.xml" value="0.1875" />
+        <entry key="..\:/Users/User/Desktop/AndroidCloneCording/UdemyAndroidStudy/app/src/main/res/layout/activity_song.xml" value="0.1875" />
+        <entry key="..\:/Users/User/Desktop/AndroidCloneCording/UdemyAndroidStudy/app/src/main/res/layout/fragment_album.xml" value="0.1875" />
+        <entry key="..\:/Users/User/Desktop/AndroidCloneCording/UdemyAndroidStudy/app/src/main/res/layout/fragment_banner.xml" value="0.10280797101449275" />
+        <entry key="..\:/Users/User/Desktop/AndroidCloneCording/UdemyAndroidStudy/app/src/main/res/layout/fragment_home.xml" value="0.10280797101449275" />
         <entry key="app/src/main/res/drawable/button_background_flo_color.xml" value="0.135" />
         <entry key="app/src/main/res/layout/activity_main.xml" value="0.12310030395136778" />
         <entry key="app/src/main/res/layout/activity_song.xml" value="0.182518115942029" />
