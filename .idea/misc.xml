@@ -3,8 +3,10 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/UdemyAndroidStudy/app/src/main/res/drawable/splash.xml" value="0.195" />
         <entry key="..\:/UdemyAndroidStudy/app/src/main/res/layout/activity_main.xml" value="0.24682971014492755" />
-        <entry key="..\:/UdemyAndroidStudy/app/src/main/res/layout/activity_song.xml" value="0.24682971014492755" />
+        <entry key="..\:/UdemyAndroidStudy/app/src/main/res/layout/activity_song.xml" value="0.25" />
+        <entry key="..\:/UdemyAndroidStudy/app/src/main/res/layout/activity_splash.xml" value="0.1875" />
         <entry key="..\:/UdemyAndroidStudy/app/src/main/res/layout/fragment_album.xml" value="0.24682971014492755" />
         <entry key="..\:/UdemyAndroidStudy/app/src/main/res/layout/fragment_banner.xml" value="0.3038949275362319" />
         <entry key="..\:/UdemyAndroidStudy/app/src/main/res/layout/fragment_detail.xml" value="0.36614583333333334" />
