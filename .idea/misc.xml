@@ -3,8 +3,10 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/User/Desktop/AndroidCloneCording/UdemyAndroidStudy/app/src/main/res/drawable/splash.xml" value="0.1955" />
         <entry key="..\:/Users/User/Desktop/AndroidCloneCording/UdemyAndroidStudy/app/src/main/res/layout/activity_main.xml" value="0.1875" />
-        <entry key="..\:/Users/User/Desktop/AndroidCloneCording/UdemyAndroidStudy/app/src/main/res/layout/activity_song.xml" value="0.1875" />
+        <entry key="..\:/Users/User/Desktop/AndroidCloneCording/UdemyAndroidStudy/app/src/main/res/layout/activity_song.xml" value="0.33" />
+        <entry key="..\:/Users/User/Desktop/AndroidCloneCording/UdemyAndroidStudy/app/src/main/res/layout/activity_splash.xml" value="0.18659420289855072" />
         <entry key="..\:/Users/User/Desktop/AndroidCloneCording/UdemyAndroidStudy/app/src/main/res/layout/fragment_album.xml" value="0.1875" />
         <entry key="..\:/Users/User/Desktop/AndroidCloneCording/UdemyAndroidStudy/app/src/main/res/layout/fragment_banner.xml" value="0.10280797101449275" />
         <entry key="..\:/Users/User/Desktop/AndroidCloneCording/UdemyAndroidStudy/app/src/main/res/layout/fragment_detail.xml" value="0.3129528985507246" />
