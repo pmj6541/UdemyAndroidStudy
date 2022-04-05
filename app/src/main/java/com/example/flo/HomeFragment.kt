@@ -21,6 +21,8 @@ class HomeFragment : Fragment() {
         binding.homeAlbumImgIv1.setOnClickListener {
             (context as MainActivity).supportFragmentManager.beginTransaction().replace(R.id.main_frm,AlbumFragment()).commitAllowingStateLoss()
         }
+        val bannerAdapter =
+
         return binding.root
     }
 }

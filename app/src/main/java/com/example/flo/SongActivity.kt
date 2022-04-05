@@ -10,6 +10,7 @@ import com.example.flo.databinding.ActivitySongBinding
 class SongActivity : AppCompatActivity() {
 
     lateinit var binding : ActivitySongBinding
+
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         binding = ActivitySongBinding.inflate(layoutInflater)
@@ -22,6 +23,10 @@ class SongActivity : AppCompatActivity() {
         }
         binding.songPauseIv.setOnClickListener {
             setPlayerStatus(true)
+        }
+        if (intent.hasExtra("title")&&intent.hasExtra("singer")){
+            binding.songMusicTitleTv.text = intent.getStringExtra("title")
+            binding.songSingerNameTv.text = intent.getStringExtra("singer")
         }
 
     }
