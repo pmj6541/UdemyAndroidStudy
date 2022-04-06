@@ -13,6 +13,6 @@ class BannerVPAdapter (fragment:Fragment) : FragmentStateAdapter(fragment){
 
     fun addFragment(fragment: Fragment){
         fragmentlist.add(fragment)
-        notifyItemChanged(fragmentlist.size -1)\===============    }
+        notifyItemChanged(fragmentlist.size -1)   }
 
 }
