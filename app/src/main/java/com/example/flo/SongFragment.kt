@@ -5,20 +5,21 @@ import android.view.LayoutInflater
 import android.view.View
 import android.view.ViewGroup
 import androidx.fragment.app.Fragment
-import com.example.flo.databinding.FragmentBannerBinding
+import com.example.flo.databinding.FragmentDetailBinding
+import com.example.flo.databinding.FragmentSongBinding
 
-class BannerFragment(val imgRes : Int) : Fragment(){
+class SongFragment : Fragment() {
 
-    lateinit var  binding : FragmentBannerBinding
+    lateinit var binding: FragmentSongBinding
 
     override fun onCreateView(
         inflater: LayoutInflater,
         container: ViewGroup?,
         savedInstanceState: Bundle?
     ): View? {
-        binding = FragmentBannerBinding.inflate(inflater, container, false)
 
-        binding.bannerImageIv.setImageResource(imgRes)
+        binding = FragmentSongBinding.inflate(inflater, container, false)
+        
         return binding.root
     }
 }
